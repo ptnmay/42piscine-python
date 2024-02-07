@@ -6,9 +6,9 @@
 #    By: psaeyang <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/06 23:22:58 by psaeyang          #+#    #+#              #
-#    Updated: 2024/02/06 23:33:16 by psaeyang         ###   ########.fr        #
+#    Updated: 2024/02/07 14:29:50 by psaeyang         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-str = input("Give me a word: ")
-print(str.upper())
+s = input("Give me a word: ")
+print(s.upper())
