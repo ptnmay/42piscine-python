@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
-
-print(input().swapcase())
+try:
+	print(input().swapcase())
+except:
+	print("Error")
